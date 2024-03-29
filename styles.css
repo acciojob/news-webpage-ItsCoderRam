@@ -5,3 +5,46 @@ body{
 header{
 	background-color:#011e29;
 }
+.header{
+	font-size:25px;
+	color:white;
+	text-align:center;
+	padding:15px;
+}
+.container{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:nowrap;
+}
+.latest-news-section{
+	width:250px;
+	height:200px;
+}
+.read_article{
+	width:400px;
+	height:300px;
+}
+.common{
+	background-color:#FDFDFD; 
+	border-radius:10px;
+}
+img{
+	width:180px;
+	height:140px;
+}
+.pictorial-news-section{
+	width:400px;
+	height:500px;
+	text-align:center;
+}
+p{
+	text-align:center;
+	padding:15px;
+	
+}
+li{
+	text-align:center;
+}
+h2,h3{
+	text-align:center;
+}
